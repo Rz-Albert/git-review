@@ -7,7 +7,11 @@ const greeting = () => {
 }
 
 const sayGoodbye = () => {
-  console.log("Goodbye!")
+  console.log("Goodbye! Have a nice day!")
+}
+
+const sayHello = () => {
+  console.log("Hello! Have a nice day!")
 }
 
 greeting()
