@@ -18,4 +18,17 @@ const sayHello = () => {
   console.log("Hello! Have a nice day!")
 }
 
+//===Tzzent
+const sayHi = () => {
+  console.log("Hi! Have a nice day!")
+}
+
+const sayBye = () => {
+  console.log("Bye! Have a nice day!")
+}
+
+const sayGoodnight = () => {
+  console.log("Goodnight! Have a nice day!")
+}
+
 greeting()
