@@ -1,4 +1,4 @@
-const variable = "Hello"
+const variable = "Hi, how r u my friend?"
 const second_variable = "World"
 const number = 12
 
