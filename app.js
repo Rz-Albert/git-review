@@ -3,7 +3,7 @@ const second_variable = "World"
 const number = 12
 
 const greeting_old = () => {
-  console.log("Hello World: " + number)
+  console.log("Hello old friend!")
 }
 
 const greeting = () => {
