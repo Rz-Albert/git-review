@@ -2,6 +2,10 @@ const variable = "Hi, how r u my friend?"
 const second_variable = "World"
 const number = 12
 
+const greeting_old = () => {
+  console.log("Hello World: " + number)
+}
+
 const greeting = () => {
   console.log(`${variable} ${second_variable}: ` + number)
 }
